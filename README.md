@@ -1,10 +1,10 @@
 # BME3053C Final Project
 
-Before running the program, change all test images into png format
+To run the program using test image 2, first convert it to png format
 
 Running the code:
 
-1)Run section 1 only and input a test image name, using the test images in png format
+1)Run section 1 only and input a test image name
 
 2)Run section 2 only
 
